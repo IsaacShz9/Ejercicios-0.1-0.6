@@ -1,0 +1,24 @@
+
+Fundamentos de las aplicaciones web
+# Modelo de Objetos del Documento o DOM
+- El Modelo de Objetos del Documento (DOM) es una interfaz de programación que proporciona una representación estructurada y jerárquica de documentos HTML y XML. Esta representación se organiza como un árbol de nodos, donde cada nodo representa una parte del documento, como elementos HTML, texto, atributos y comentarios.
+
+Nodos del DOM:
+
+- Elementos: Representan las etiquetas HTML, como div, p, span, etc. Los elementos pueden contener otros elementos, texto u otros tipos de nodos.
+- Texto: Representa el contenido textual dentro de un elemento.
+- Atributos: Representan los atributos de un elemento HTML, como id, class, src, etc.
+- Comentarios: Representan comentarios dentro del código HTML.
+- Documento: Representa el documento en sí mismo y es el nodo raíz del árbol DOM.
+  
+Acceso y Manipulación:
+
+- Los nodos del DOM pueden ser accedidos y manipulados mediante lenguajes de programación como JavaScript.
+- Los desarrolladores pueden acceder a los nodos por su estructura jerárquica, mediante métodos como getElementById, getElementsByClassName, querySelector, querySelectorAll, etc.
+- Una vez que se accede a un nodo, se puede modificar su contenido, atributos o estilo mediante métodos y propiedades específicas.
+
+Interactividad y Dinamismo:
+
+- El DOM permite la creación de aplicaciones web interactivas y dinámicas.
+- Los desarrolladores pueden responder a eventos del usuario, como clics de ratón o pulsaciones de teclas, y cambiar dinámicamente el contenido, estilo y estructura del documento en función de estas interacciones.
+- Esto permite la creación de interfaces de usuario responsivas y experiencias web personalizadas.
