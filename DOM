@@ -1,5 +1,3 @@
-
-Fundamentos de las aplicaciones web
 # Modelo de Objetos del Documento o DOM
 - El Modelo de Objetos del Documento (DOM) es una interfaz de programación que proporciona una representación estructurada y jerárquica de documentos HTML y XML. Esta representación se organiza como un árbol de nodos, donde cada nodo representa una parte del documento, como elementos HTML, texto, atributos y comentarios.
 
